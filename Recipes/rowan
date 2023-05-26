@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brither</title>
+</head>
+<body>
+    <h1> How to make brother </h1>
+    <img src="../images/brother.jpg" alt="devious smiling kid"
+<div>
+    <h3>The History</h3>
+    <p>
+        Born into a well-to-do family, he somehow came out completely wrong. 
+        An F-section had to be performed, a procedure so disgusting that the practioner did it with one hand covering her eyes - peaking through the fingers. 
+        This incident was the first, but not the smallest, disaster in his current 12 year long lineage.
+    </p>
+    <div>
+        <h2>Ingridents</h2>
+        <ul>
+            <li>Brother</li>
+            <li>Salt</li>
+        </ul>
+    </div>
+    <div> 
+        <h2>Instructions</h2>
+        <ol>
+            <li>Boil Brother</li>
+            <li>Add salt</li>
+        </ol>
+    </div>
+    <h2><a href="../index.html">Return to Home</a></h2>
+</div>
+</body>
+</html>

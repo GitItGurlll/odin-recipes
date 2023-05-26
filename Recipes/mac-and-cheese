@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mac and Cheese</title>
+</head>
+<body>
+    <h1> How to make mac and cheesse </h1>
+    <img src="../images/cheese.jpg" alt="noodles coated in cheese"
+<div>
+    <h3>The History</h3>
+    <p>
+        Mac and cheese, also known as macaroni and cheese, is a popular dish made with cooked macaroni pasta and a cheese sauce. 
+        The origins of this dish can be traced back to Italy, where a similar dish called "maccheroni alla milanese" was created in the 14th century. 
+    </p>
+    <div>
+        <h2>Ingridents</h2>
+        <ul>
+            <li>1 lb elbow macaroni</li>
+            <li>2 tablespoons butter</li>
+            <li>2 tablespoons flour</li>
+            <li>2 cups milk, warmed</li>
+            <li>1 -2 lb sharp cheddar cheese</li> 
+        </ul>
+    </div>
+    <div> 
+        <h2>Instructions</h2>
+        <ol>
+            <li>Boil and drain macaroni per box instructions.</li>
+            <li>Melt the butter in a skillet.</li>
+            <li>Melt the butter in a skillet.</li>
+            <li>Sprinkle in flour and stir until pasty.</li>
+            <li>Whisk in warmed milk and let cook until thickened.</li>
+            <li>Add cheese to sauce.</li>
+            <li>Add sauce to pasta.</li>
+        </ol>
+    </div>
+    <h2><a href="../index.html">Return to Home</a></h2>
+</div>
+</body>
+</html>
